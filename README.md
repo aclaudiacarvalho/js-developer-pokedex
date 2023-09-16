@@ -30,10 +30,11 @@ Para a obter as informações sobre os Pokémons foi utilizada a API do [PokéAP
 - `CSS`
 
 ## :tv: TelaPrincipal
-
+https://github.com/aclaudiacarvalho/js-developer-pokedex/blob/main/TelaPrincipal.png
 
  
  ## :tv: TelaDetalhe
+ https://github.com/aclaudiacarvalho/js-developer-pokedex/blob/main/TelaDetalhe.png
  
 
  
